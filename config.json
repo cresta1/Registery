@@ -1,0 +1,21 @@
+{
+    "prefix": "!",
+    "token": "",
+    "owner": [],
+    "presence": "Forcex Register Bot",
+
+    "mod": {
+        "reg": ""
+    },
+
+    "sembol": {
+        "tag": ""
+    },
+
+    "roles": {
+        "erkek": "",
+        "kız": "",
+        "booster": ""
+    }
+
+}
